@@ -1,16 +1,13 @@
-## Hi there 👋
+### boas vinda ao meu perfil 💙
 
-<!--
-**mariavitoriapereiradossantos/mariavitoriapereiradossantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e maria vitoria 
 
-Here are some ideas to get you started:
+- Estou estudando na alura
+- Estou desenvolvendo na linguagem javescript
+- Utilizandoeste espaco para minhas organização e conpartilhamento dos meu projeto  desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entra em contato comigo 📫
+  mariavitoriapereiradossantos  
+
+
+![](https://github.com/mariavitoriapereiradossantos/mariavitoriapereiradossantos/assets/173275214/477dfff8-e248-481a-86f7-49e9017ef5ff)
